@@ -1,0 +1,5 @@
+CLIENT_ID=
+CLIENT_SECRET=
+AUTH_URL=https://api-auth.deploy.ai/oauth2/token
+API_URL=https://core-api.deploy.ai
+ORG_ID=1a01ce2d-3f79-418b-a564-e3f41f5be8a4
